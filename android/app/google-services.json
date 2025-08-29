@@ -1,0 +1,354 @@
+{
+  "project_info": {
+    "project_number": "140546834770",
+    "project_id": "popu-5017d",
+    "storage_bucket": "popu-5017d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:bbe9a1a54decf1620f7a8b",
+        "android_client_info": {
+          "package_name": "com.abdallah.tahadi_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-6vk58gibgl8ulcpr6bnh2kmj95m9co7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdallah.tahadi_final",
+            "certificate_hash": "dae755ce65a20423a23d7a263f416661cfc02d4b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:94c14462bcd54f520f7a8b",
+        "android_client_info": {
+          "package_name": "com.alzainy.tahadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-b4d6ha503hgeh4oinn861llfud4e96n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alzainy.tahadi",
+            "certificate_hash": "dae755ce65a20423a23d7a263f416661cfc02d4b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:c20e9469de6a01490f7a8b",
+        "android_client_info": {
+          "package_name": "com.alzainyy.tahadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-l2vn6e7h66b6p16268rhtrsm7nigc2j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alzainyy.tahadi",
+            "certificate_hash": "dae755ce65a20423a23d7a263f416661cfc02d4b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:a2689331a058a79c0f7a8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-k4qdjmnk71r98kqhpfd3gniouudsennd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_2",
+            "certificate_hash": "f1545f29995a83cd7be75293e3bce86abc15b37b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:46e891725696b1620f7a8b",
+        "android_client_info": {
+          "package_name": "com.example.tahadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:7d8f34e4f1fe79740f7a8b",
+        "android_client_info": {
+          "package_name": "com.example.tahadi_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-bmpgeuibdssekqbmt6gaurm6hj6bvood.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tahadi_dashboard",
+            "certificate_hash": "dae755ce65a20423a23d7a263f416661cfc02d4b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:8aef83cf5705bf5f0f7a8b",
+        "android_client_info": {
+          "package_name": "com.example.tahadi_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-o710ofessvk74vuvm8g3vo9kak8q8102.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tahadi_final",
+            "certificate_hash": "dae755ce65a20423a23d7a263f416661cfc02d4b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140546834770:android:82a4658c3d33bd310f7a8b",
+        "android_client_info": {
+          "package_name": "com.zamo.proft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140546834770-t1l9tgb25e6jaea6r1d23n8leln7od2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zamo.proft",
+            "certificate_hash": "dae755ce65a20423a23d7a263f416661cfc02d4b"
+          }
+        },
+        {
+          "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XD8kGfEtAr5RDpdtRI5P0FVOKJsxgxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140546834770-lcdblh88aj2d4g0a6odmhlsfsiv79ibu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140546834770-ncvksa1d8nvprqebnju5fvpstbq58plc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tahadi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
